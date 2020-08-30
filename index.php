@@ -1,0 +1,1 @@
+<?php header( 'Location: /grant/index.html'); ?>
